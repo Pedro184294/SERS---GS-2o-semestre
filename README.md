@@ -1,6 +1,7 @@
 # SERS---GS-2o-semestre
-💡 Opção A – Análise de Dados: Eficiência Energética em Ambiente Empresarial
-📘 Descrição da Solução
+ Opção A – Análise de Dados: Eficiência Energética em Ambiente Empresarial
+
+ Descrição da Solução
 
 Esta solução simula e analisa o consumo energético de uma empresa, permitindo identificar padrões de uso, desperdícios e oportunidades de otimização.
 O objetivo é demonstrar como a análise de dados pode contribuir para práticas sustentáveis no ambiente de trabalho, promovendo eficiência, economia e responsabilidade ambiental.
@@ -8,13 +9,13 @@ O objetivo é demonstrar como a análise de dados pode contribuir para práticas
 A aplicação gera dados simulados de consumo horário (em kWh) durante um período de 30 dias, com base em parâmetros como número de funcionários, área da empresa e potência média de operação.
 Em seguida, realiza:
 
-📊 Análises estatísticas (total, média, pico e fator de carga);
+ Análises estatísticas (total, média, pico e fator de carga);
 
-⚠️ Detecção de desperdício fora do horário comercial (8h às 18h);
+ Detecção de desperdício fora do horário comercial (8h às 18h);
 
-📈 Visualizações gráficas de consumo horário e diário;
+ Visualizações gráficas de consumo horário e diário;
 
-💬 Sugestões automáticas de melhorias para eficiência energética.
+ Sugestões automáticas de melhorias para eficiência energética.
 
 Essa abordagem pode ser aplicada no contexto empresarial para:
 
