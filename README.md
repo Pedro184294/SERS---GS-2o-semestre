@@ -25,7 +25,7 @@ Identificar horários de pico e desperdício;
 
 Avaliar impactos de práticas sustentáveis no ambiente de trabalho.
 
-⚙️ Tecnologias Utilizadas
+* Tecnologias Utilizadas:
 
 Python 3.10+
 
@@ -37,7 +37,7 @@ numpy → simulação numérica
 
 matplotlib → geração de gráficos
 
-🚀 Execução no Google Colab
+* Execução no Google Colab:
 
 Acesse o Google Colab
 .
@@ -60,7 +60,7 @@ Gráficos de consumo horário e diário;
 Sugestões de eficiência energética.
 
 
-📊 Interpretação dos Resultados
+* Interpretação dos Resultados:
 
 O relatório apresenta diversas métricas que ajudam a entender o comportamento energético da empresa:
 
@@ -81,7 +81,8 @@ Fatores de carga muito baixos (menores que 0,5) indicam grande variação de con
 Consumo fora do expediente: indica o percentual de energia usado fora do horário de trabalho (8h às 18h).
 Valores elevados nessa métrica sugerem desperdício, possivelmente devido a equipamentos deixados ligados, iluminação desnecessária ou sistemas de ar-condicionado em funcionamento sem necessidade.
 
-🔎 Exemplo de Interpretação
+
+* Exemplo de Interpretação:
 
 Desperdício acima de 20% → alto consumo fora do expediente → recomenda-se sensores de presença e desligamento automático.
 
@@ -89,7 +90,8 @@ Fator de carga < 0.5 → uso de energia irregular → redistribuir horários de 
 
 Fator de carga > 0.7 → bom equilíbrio e eficiência no uso da energia.
 
-🌱 Conclusão
+
+* Conclusão:
 
 Esta solução demonstra como a análise de dados pode apoiar decisões estratégicas para sustentabilidade no ambiente corporativo.
 Mesmo com dados simulados, ela mostra o potencial de aplicar inteligência computacional e automação analítica para reduzir desperdícios e melhorar a eficiência energética — passos fundamentais para o futuro do trabalho sustentável.
