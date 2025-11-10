@@ -61,12 +61,24 @@ Sugestões de eficiência energética.
 
 📊 Interpretação dos Resultados
 
-Métrica	                               Descrição
-Consumo total (kWh)            	Soma total de energia consumida no período analisado.
-Consumo médio horário          	Média de energia consumida por hora.
-Pico de consumo                	Maior valor observado de consumo horário.
-Fator de carga	                Relação entre consumo médio e pico (quanto mais próximo de 1, mais estável é o uso).
-Consumo fora do expediente	    Indica o percentual de energia usada fora do horário de trabalho (8h–18h).
+O relatório apresenta diversas métricas que ajudam a entender o comportamento energético da empresa:
+
+Consumo total (kWh): representa a soma de toda a energia utilizada no período analisado.
+Esse valor indica o tamanho do consumo global da empresa e serve de base para comparações futuras, após a adoção de medidas de eficiência.
+
+Consumo médio horário: é a média de energia consumida por hora durante o período.
+Essa métrica mostra a intensidade média de uso de energia e ajuda a perceber se há variações significativas ao longo do dia.
+
+Pico de consumo: mostra o maior valor de consumo horário registrado.
+Valores de pico muito altos indicam sobrecarga ou horários de concentração de uso de equipamentos, o que pode aumentar custos e reduzir a vida útil da rede elétrica interna.
+
+Fator de carga: é a relação entre o consumo médio e o pico de consumo.
+Quanto mais próximo de 1, mais equilibrado e estável é o uso de energia.
+Fatores de carga muito baixos (menores que 0,5) indicam grande variação de consumo, o que representa oportunidades de otimização operacional.
+
+
+Consumo fora do expediente: indica o percentual de energia usado fora do horário de trabalho (8h às 18h).
+Valores elevados nessa métrica sugerem desperdício, possivelmente devido a equipamentos deixados ligados, iluminação desnecessária ou sistemas de ar-condicionado em funcionamento sem necessidade.
 
 🔎 Exemplo de Interpretação
 
