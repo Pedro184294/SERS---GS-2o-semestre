@@ -1,7 +1,7 @@
 # SERS---GS-2o-semestre
  Opção A – Análise de Dados: Eficiência Energética em Ambiente Empresarial
 
-Descrição da Solução
+Descrição da Solução:
 
 Esta solução simula e analisa o consumo energético de uma empresa, permitindo identificar padrões de uso, desperdícios e oportunidades de otimização.
 O objetivo é demonstrar como a análise de dados pode contribuir para práticas sustentáveis no ambiente de trabalho, promovendo eficiência, economia e responsabilidade ambiental.
