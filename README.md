@@ -60,6 +60,7 @@ Sugestões de eficiência energética.
 
 
 📊 Interpretação dos Resultados
+
 Métrica	                               Descrição
 Consumo total (kWh)            	Soma total de energia consumida no período analisado.
 Consumo médio horário          	Média de energia consumida por hora.
